@@ -1,3 +1,12 @@
-#TO-DO-LIST APPLICATION BY USING PYTHON PROGRAMMING
-A To-Do List application is a useful project that helps users manage and organize their tasks efficiently. This project aims to create a command-line or GUI-based application using Python, allowing  users to create, update, and track their to-do lists
-@CODSOFT
+# Simple Python Calculator
+
+## NOTES:
+
+This is a simple calculator.\
+If error happens, ERROR will be displayed in the screen.\
+Text in the display can be modified.\
+You can continuously do operation in this calculator, one after other.
+
+## GUI Image
+
+<img src="images/calculator.png" width="500" height="400" />
